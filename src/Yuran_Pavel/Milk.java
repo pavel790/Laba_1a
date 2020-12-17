@@ -9,7 +9,7 @@ public class Milk extends Food {
     }
 
     public void consume() {
-        System.out.println(this + " выпито");
+        System.out.println(this + "литров выпито");
     }
 
 

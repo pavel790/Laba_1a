@@ -39,7 +39,7 @@ public class Main { public static void main(String[] args) throws Exception {
         } else
             break;
     }
-    System.out.println("Ваш завтрак состоит из "+AppleType+" яблок, "+MilkType+" молока и "+CheeseType+ " сыров.");
+    System.out.println("Ваш завтрак состоит из "+AppleType+" яблок, "+MilkType+" литров молока и "+CheeseType+ " сыров.");
 
     for (Food item: breakfast) {
         if (item != null) {
